@@ -1,7 +1,4 @@
-//PREXZY SOLOS
-//YouTube: @prexzyvilla
-//Telegram: t.me/prexzyvilla_tech
-
+//Takeoff SOLOS
 
 
 const fs = require('fs')
