@@ -8,26 +8,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //owmner v card
-global.ytname = "YT: PrexzyVilla" //ur yt chanel name
-global.socialm = "IG : prexzy.ay" //ur github or insta name
-global.location = "Nigeria" //ur location
+global.ytname = "YT: Takeoff" //ur yt chanel name
+global.socialm = "IG : takeoff4292" //ur github or insta name
+global.location = "Sierra Leone" //ur location
 
 //new
-global.botname = 'QUEEN NYX👸' //ur bot name
-global.ownernumber = '16582044119' //ur owner number
-global.ownername = '©Precious Ayomide' //ur owner name
-global.websitex = "https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
-global.wagc = "https://chat.whatsapp.com/EletTHoIrrj2CCPFYfmdVD" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
+global.botname = 'Takeoff bot' //ur bot name
+global.ownernumber = '23288429245' //ur owner number
+global.ownername = 'Mohamed Khalil Bah' //ur owner name
+global.websitex = "" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
+global.wagc = "" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
 global.idch = '120363322892680943@newsletter'
-global.themeemoji = '🪀'
-global.wm = "NYX👸"
+global.themeemoji = '😌'
+global.wm = "T🤌"
 global.botscript = 'https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s' //'https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F' //script link
-global.packname = "Queen Nyx👸"
-global.author = "Precious Ayomide"
-global.creator = "2349159895444@s.whatsapp.net"
+global.packname = "Takeoff Nyx⚛️"
+global.author = "Mohamed Khalil Bah"
+global.creator = "23288429245@s.whatsapp.net"
 global.xprefix = '.'
 global.antidelete = true
-global.premium = ["2349159895444"] // Premium User
+global.premium = ["23288429245"] // Premium User
 global.hituet = 0
 global.chatModeUsers = {}; // Store chat mode status per user
 
@@ -36,7 +36,7 @@ global.typemenu = 'v8' // menu type 'v1' => 'v8'
 global.typereply = 'v4' // reply type 'v1' => 'v3'
 global.autoblocknumber = '' //set autoblock country code
 global.antiforeignnumber = '' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
+global.welcome = true //welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = true //auto status/story view
 global.adminevent = false //show promote/demote message
@@ -50,7 +50,7 @@ global.mess = {
     success: 'Succes •'
 }
 //thumbnail
-global.thumb = fs.readFileSync('./PrexzyMedia/theme/nyxpic.jpg')
+global.thumb = fs.readFileSync('./TakeoffMedia/theme/nyxpic.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
