@@ -1,3 +1,3 @@
 {
-	"name": "Queen Nyx Bot Multi Device "
+	"name": "Takeoff Nyx Bot Multi Device "
 }
