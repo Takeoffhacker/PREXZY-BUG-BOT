@@ -1,19 +1,19 @@
 {
-    "name": "Queen-Nyx-V1",
+    "name": "Takeoff-Nyx-V1",
     "version": "1.0.0",
-    "description": "Whatsapp Bot By Precious Ayomide",
+    "description": "Whatsapp Bot By Takeoff",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
         "lib": "lib",
         "src": "src",
-        "media": "PrexzyMedia"
+        "media": "TakeoffMedia"
     },
     "scripts": {
         "code": "node main.js",
         "start": "node index.js"
     },
-    "author": "Precious Ayomide",
+    "author": "Takeoff",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/baileys": "^5.0.0",
