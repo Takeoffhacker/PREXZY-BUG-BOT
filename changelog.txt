@@ -1,4 +1,4 @@
-🔥 QUEEN NYX v1.1.0 Changelog:
+🔥 Takeoff NYX v1.1.0 Changelog:
 
 - Added a progress bar to the update system.
 - Fixed gitclone command
